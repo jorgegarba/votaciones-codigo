@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/votacion-webinar/static/css/main.05c94b74.chunk.css",
+    "main.js": "/votacion-webinar/static/js/main.d9d2b4b2.chunk.js",
+    "main.js.map": "/votacion-webinar/static/js/main.d9d2b4b2.chunk.js.map",
+    "runtime-main.js": "/votacion-webinar/static/js/runtime-main.3f485a25.js",
+    "runtime-main.js.map": "/votacion-webinar/static/js/runtime-main.3f485a25.js.map",
+    "static/js/2.1b447622.chunk.js": "/votacion-webinar/static/js/2.1b447622.chunk.js",
+    "static/js/2.1b447622.chunk.js.map": "/votacion-webinar/static/js/2.1b447622.chunk.js.map",
+    "index.html": "/votacion-webinar/index.html",
+    "static/css/main.05c94b74.chunk.css.map": "/votacion-webinar/static/css/main.05c94b74.chunk.css.map",
+    "static/js/2.1b447622.chunk.js.LICENSE.txt": "/votacion-webinar/static/js/2.1b447622.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f485a25.js",
+    "static/js/2.1b447622.chunk.js",
+    "static/css/main.05c94b74.chunk.css",
+    "static/js/main.d9d2b4b2.chunk.js"
+  ]
+}
